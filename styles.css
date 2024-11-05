@@ -1,7 +1,7 @@
 /* Style for the body */
 body {
     margin: 0;
-    background-image: url(img/norsu-bg.jpg); /* Path to your background image */
+    background-image: url(img/bg-norsu.jpg); /* Path to your background image */
     background-size: cover; /* Scale the image to cover the entire body */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-position: center; /* Center the image */
